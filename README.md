@@ -3,7 +3,7 @@ The purpose of the task is creating the collection of requests for the RESTful A
 1) <b>GET:</b> Retrieve data from a server.
 2) <b>POST:</b>: Submit data to create or update a resource.
 3) <b>PUT:</b> Update or replace an existing resource.
-4) <b>PATCH:<b> Partially update an existing resource.
+4) <b>PATCH:</b> Partially update an existing resource.
 5) <b>DELETE:</b> Delete a specified resource.
 
 The repository also contains documentation for the used API which consists of the description of API fields and possible values of these fields. 
